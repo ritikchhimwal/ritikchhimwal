@@ -1,21 +1,17 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif))](https://imritik.vercel.app)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://imritik.vercel.app)
 
 
 <h1 align="center">Hi 👋, I'm Ritik Chhimwal</h1>
 <h3 align="center">A passionate frontend developer and backend enthusiast from India</h3>
-<image align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikchhimwal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikchhimwal" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://imritik.vercel.app/](https://imritik.vercel.app/)
-
 - 💬 Ask me about **React , JavaScript , MERN**
 
 - 📫 How to reach me **ritikchhimwal822@gmail.com**
-
-- 📄 Know about my experiences [https://imritik.vercel.app/static/media/Ritik's%20Resume.38910426b94a120cd09f.pdf](https://imritik.vercel.app/static/media/Ritik's%20Resume.38910426b94a120cd09f.pdf)
 
 - ⚡ Fun fact **I am funny**
 
